@@ -1,5 +1,5 @@
 # unms
-Worksround for Ubiquiti UNMS on Fedora
+Workaround for Ubiquiti UNMS on Fedora
 
 Out of the box UNMS (which is really cool by the way) is only supported on Debian/Ubuntu variants) is not supported on Fedora.
 
