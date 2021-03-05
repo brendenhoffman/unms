@@ -33,4 +33,4 @@ usermod -aG docker $USER
 
 # Install UNMS
 
-curl -fsSL https://raw.githubusercontent.com/Ubiquiti-App/UNMS/master/install.sh > /tmp/unms_install.sh && sudo bash /tmp/unms_install.sh -y
+curl -fsSL https://unms.com/v1/install > /tmp/unms_install.sh && sudo bash /tmp/unms_install.sh -y
